@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/Auto-Filter-Bot">
+  <a href="https://github.com/screeeeeee/Auto-Filter-Bot">
     <img src="https://img.shields.io/github/stars/TroJanzHEX/Auto-Filter-Bot?style=social">
 
   </a>
